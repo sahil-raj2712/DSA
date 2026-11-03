@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/sahil-raj2712/DSA/tree/master/0263-ugly-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sahil-raj2712/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
