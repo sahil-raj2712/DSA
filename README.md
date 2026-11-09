@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sahil-raj2712/DSA/tree/master/0001-two-sum) |
+| [0039-combination-sum](https://github.com/sahil-raj2712/DSA/tree/master/0039-combination-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/sahil-raj2712/DSA/tree/master/0175-combine-two-tables) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/sahil-raj2712/DSA/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
