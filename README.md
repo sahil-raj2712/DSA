@@ -24,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/sahil-raj2712/DSA/tree/master/0039-combination-sum) |
+## String
+|  |
+| ------- |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sahil-raj2712/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 <!---LeetCode Topics End-->
