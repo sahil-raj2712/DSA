@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sahil-raj2712/DSA/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/sahil-raj2712/DSA/tree/master/0039-combination-sum) |
+| [0908-smallest-range-i](https://github.com/sahil-raj2712/DSA/tree/master/0908-smallest-range-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/sahil-raj2712/DSA/tree/master/0263-ugly-number) |
+| [0908-smallest-range-i](https://github.com/sahil-raj2712/DSA/tree/master/0908-smallest-range-i) |
 ## Database
 |  |
 | ------- |
