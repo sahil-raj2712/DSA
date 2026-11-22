@@ -29,5 +29,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/sahil-raj2712/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sahil-raj2712/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 <!---LeetCode Topics End-->
